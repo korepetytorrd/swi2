@@ -6,8 +6,7 @@ public class Main {
         christmastree.Budowa(10);
         christmastree.BudowaR(10,0);
 
-
-
+        
 
     }
 }
