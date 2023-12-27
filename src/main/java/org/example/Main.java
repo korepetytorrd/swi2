@@ -5,8 +5,5 @@ public class Main {
         Christmastree christmastree = new Christmastree();
         christmastree.Budowa(10);
         christmastree.BudowaR(10,0);
-
-
-
     }
 }
