@@ -6,8 +6,16 @@ public class Osoby {
 
     public Osoby(String name) {
         this.name = name;
-
     }
+
+    public Osoby() {
+    }
+
+    public Osoby(String name, String prezent) {
+        this.name = name;
+        this.gift = prezent;
+    }
+
 
     public void setGift(String gift) {
         this.gift = gift;
